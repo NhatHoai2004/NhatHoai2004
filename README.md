@@ -47,12 +47,12 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%230078D7.svg?style=for-the-badge&logo=dot-net&logoColor=white)
 
 
-#### 📚 Libraries
+#### 🗄️ Databases
 
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%238C1D40.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%2300B3AB.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 #### 🔧 Tools
 
