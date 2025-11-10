@@ -8,7 +8,7 @@
 ### **✨ About Me:**  
 
 
-<img alt="coding cat" align="right" height="200" width="300" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="coding cat" align="right" height="200" width="300" src="https://s1.aigei.com/src/img/gif/36/36bf2ae677b14d1f86abac7ec2f4a680.gif?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:JWKVsPfSvpBcqCnyKnn1jLBMx9c=">
 
 👨‍💻 **Backend Developer** đến từ Việt Nam  
 ⚙️ **Đam mê phát triển website** với **Laravel**, **React**, **Spring Boot**, và **ASP.NET**  
