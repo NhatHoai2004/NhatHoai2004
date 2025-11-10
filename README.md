@@ -91,9 +91,7 @@
 
 ### 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&title_color=58A6FF&area=true" width="100%"/>
-</div>
+<img alt="coding cat" align="right" height="200" width="300" src="https://tophinhanh.net/wp-content/uploads/2024/04/gif-meme-meo-37.mp4?_=18">
 
 ---
 
