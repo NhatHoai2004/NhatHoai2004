@@ -9,11 +9,11 @@
 
 <img alt="coding cat" align="right" height="200" width="300" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-* 🧑‍💻 **Backend Developer** đến từ Việt Nam
-* ⚡ Đam mê **Laravel + React + Spring Boot**
-* 🌱 Đang khám phá **Microservices & Cloud**
-* 🎯 Mục tiêu: Trở thành **Senior Backend Developer**
-* 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**
+👨‍💻 **Backend Developer** đến từ Việt Nam  
+⚙️ **Đam mê phát triển website** với **Laravel**, **React**, **Spring Boot**, và **ASP.NET**  
+🎯 **Mục tiêu:** Trở thành **Senior Backend Developer** trong tương lai  
+🎨 **Sở thích:** Code,Calisthenics, Game, Âm Nhạc  
+
 
 ### 📂 Portfolio
 
