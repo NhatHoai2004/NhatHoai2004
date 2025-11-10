@@ -20,7 +20,6 @@
 🚀 Khám phá các dự án của mình tại:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhathoai2004.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhatHoai2004)
 
 ---
 
