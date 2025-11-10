@@ -23,31 +23,22 @@
 
 ---
 
-### 👨‍💻 About Me
+### ✨ Một chút huyền bí về mình:
 
-```javascript
-const me = {
-    name: "Your Name",
-    role: "Full Stack Developer",
-    location: "Ho Chi Minh City, Vietnam 🇻🇳",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<img alt="coding cat" align="right" height="300" width="400" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
+* 🧑‍💻 **Fullstack Developer** đến từ Việt Nam
+* ⚡ Đam mê **Laravel + React + Spring Boot**
+* 🌱 Đang khám phá **Microservices & Cloud**
+* 🎯 Mục tiêu: Trở thành **Senior Backend Developer**
+* 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**
+
+### 📂 Portfolio
+
+🚀 Khám phá các dự án của mình tại:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhathoai2004.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhatHoai2004)
 
 ---
 
