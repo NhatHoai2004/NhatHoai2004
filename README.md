@@ -99,9 +99,9 @@
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 ---
 
