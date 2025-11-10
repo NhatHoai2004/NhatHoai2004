@@ -25,7 +25,7 @@
 
 ### ✨ Một chút huyền bí về mình:
 
-<img alt="coding cat" align="right" height="300" width="400" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="coding cat" align="right" height="200" width="300" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 * 🧑‍💻 **Fullstack Developer** đến từ Việt Nam
 * ⚡ Đam mê **Laravel + React + Spring Boot**
