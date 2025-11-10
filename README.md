@@ -89,33 +89,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
----
-
-### 🎯 Current Projects
-
-- 🔭 Working on **[Your Awesome Project]** - Brief description
-- 🌱 Learning **AI/ML, Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, APIs, System Design**
-- ⚡ Fun fact: **Coffee is my debugging tool ☕**
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](#)
-- [Your Blog Post Title 2](#)
-- [Your Blog Post Title 3](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 💭 Random Dev Quote
 
@@ -125,13 +98,6 @@
 
 ---
 
-### 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
-</div>
-
----
 
 ### 📈 Contribution Graph
 
