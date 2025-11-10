@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me:**
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;## **About Me**
 <img alt="coding cat" align="right" height="200" width="300" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 👨‍💻 **Backend Developer** đến từ Việt Nam  
