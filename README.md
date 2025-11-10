@@ -76,6 +76,8 @@
 <p align="center">
 <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
+<img alt="coding cat" align="right" height="200" width="300" src="https://s1.aigei.com/src/img/gif/97/9759712c42e447fab303699080f52195.gif?imageMogr2/auto-orient/thumbnail/!132x132r/gravity/Center/crop/132x132/quality/85/%7CimageView2/2/w/132&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:nU0HMGCYQ7mObFvFjpe5_4-2wyI=">
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -94,7 +96,6 @@
 <img alt="coding cat" align="right" height="200" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF4OGN1dmQ0cmZxZDR2NXo0dDlweHh3dXpjNHhoZ2o1azN3Zm1ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LTcau7EnQLhHkxxG2u/giphy.gif">
 
 <img alt="coding cat" align="right" height="200" width="300" src="https://s1.aigei.com/prevfiles/ae57ef9442be4c46ba54f9abf5cef37f.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Myi0oSr3wZobH3DgyvVbCbgbumc=">
-<img alt="coding cat" align="right" height="200" width="300" src="https://s1.aigei.com/src/img/gif/97/9759712c42e447fab303699080f52195.gif?imageMogr2/auto-orient/thumbnail/!132x132r/gravity/Center/crop/132x132/quality/85/%7CimageView2/2/w/132&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:nU0HMGCYQ7mObFvFjpe5_4-2wyI=">
 
 
 ---
