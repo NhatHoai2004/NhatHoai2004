@@ -91,7 +91,7 @@
 
 ### 📈 Contribution Graph
 
-<img alt="coding cat" align="right" height="200" width="300" src="https://tophinhanh.net/wp-content/uploads/2024/04/gif-meme-meo-37.mp4?_=18">
+<img alt="coding cat" align="right" height="200" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjF4OGN1dmQ0cmZxZDR2NXo0dDlweHh3dXpjNHhoZ2o1azN3Zm1ndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LTcau7EnQLhHkxxG2u/giphy.gif">
 
 ---
 
