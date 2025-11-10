@@ -91,10 +91,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+---
 <div align="center">
 <img alt="coding cat" align="right" height="300" width="400" src="https://s1.aigei.com/prevfiles/ae57ef9442be4c46ba54f9abf5cef37f.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:Myi0oSr3wZobH3DgyvVbCbgbumc=">
 </div>
 
+---
 
 ### 🐍 Contribution Snake
 
